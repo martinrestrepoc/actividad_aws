@@ -1,0 +1,11 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+crash.*.log
+terraform.tfvars
+*.auto.tfvars
+*.tfvars.json
+tfplan
+# Conservar .terraform.lock.hcl en Git.
