@@ -19,3 +19,11 @@ wheels/
 
 # archivos de macos
 .DS_Store
+
+# Reglas recursivas para subcarpetas (Punto 6)
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
+**/*.tfstate.backup
+**/.terraform.lock.hcl
+**/config.json
