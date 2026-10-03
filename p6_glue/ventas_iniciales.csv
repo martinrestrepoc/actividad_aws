@@ -1,0 +1,26 @@
+id_venta,producto,categoria,precio,unidades,fecha
+1,Laptop X,Electronica,1200.50,2,2026-10-01
+2,Mouse Inalambrico,Electronica,25.00,10,2026-10-01
+3,Teclado Mecanico,Electronica,85.00,5,2026-10-02
+4,Monitor 24",Electronica,150.00,4,2026-10-02
+5,Silla Ergonomica,Muebles,200.00,2,2026-10-03
+6,Escritorio,Muebles,180.00,1,2026-10-03
+7,Auriculares Bluetooth,Electronica,60.00,8,2026-10-04
+8,Funda para Laptop,Accesorios,15.00,15,2026-10-04
+9,Cable HDMI,Accesorios,10.00,20,2026-10-05
+10,Disco Duro 1TB,Electronica,55.00,6,2026-10-05
+11,Memoria RAM 16GB,Electronica,70.00,4,2026-10-06
+12,Lampara de Mesa,Muebles,35.00,3,2026-10-06
+13,Soporte para Monitor,Accesorios,40.00,5,2026-10-07
+14,Alfombrilla Mouse,Accesorios,12.00,12,2026-10-07
+15,Microfono USB,Electronica,45.00,4,2026-10-08
+16,Webcam 1080p,Electronica,50.00,3,2026-10-08
+17,Bateria Portatil,Accesorios,25.00,10,2026-10-09
+18,Cargador Rapido,Accesorios,20.00,15,2026-10-09
+19,Librero,Muebles,110.00,2,2026-10-10
+20,Archivero,Muebles,90.00,1,2026-10-10
+21,Cable USB-C,Accesorios,8.00,30,2026-10-11
+22,Adaptador Multipuerto,Accesorios,30.00,8,2026-10-11
+23,Funda Celular,Accesorios,10.00,20,2026-10-12
+24,Soporte Celular,Accesorios,15.00,10,2026-10-12
+25,Impresora,Electronica,180.00,2,2026-10-13
